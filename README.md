@@ -21,7 +21,7 @@ This repository contains code for predicting cryptocurrency prices using Long Sh
 2. Install dependencies
 
 ## Usage
-1. Run `fetch_data.py` to fetch cryptocurrency data from CoinCap API.
-2. Execute `crypto_lstm.py` to train the LSTM model.
+1. Run `fetch_data.ipynb` to fetch cryptocurrency data from CoinCap API.
+2. Execute `crypto_lstm.ipynb` to train the LSTM model.
 3. View the results and evaluation metrics.
 
