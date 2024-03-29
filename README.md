@@ -17,8 +17,8 @@ This repository contains code for predicting cryptocurrency prices using Long Sh
 - sklearn
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/username/repository.git`
-2. Install dependencies: `pip install -r requirements.txt`
+1. Clone the repository: `git clone https://github.com/AnushkaChaubal/Crypto-Currency-Prediction.git`
+2. Install dependencies
 
 ## Usage
 1. Run `fetch_data.py` to fetch cryptocurrency data from CoinCap API.
