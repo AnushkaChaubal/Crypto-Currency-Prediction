@@ -1,5 +1,3 @@
-# Crypto-Currency-Prediction
-
 # Cryptocurrency Price Prediction with LSTM Model
 
 This repository contains code for predicting cryptocurrency prices using Long Short-Term Memory (LSTM) models. The project fetches cryptocurrency data from CoinCap using HTTP Client, with a specific focus on Bitcoin. The LSTM model is engineered for Time Series Analysis, aiming to forecast Bitcoin prices accurately.
